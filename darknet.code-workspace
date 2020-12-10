@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"__functional_base": "cpp",
+			"__hash_table": "cpp",
+			"__split_buffer": "cpp",
+			"exception": "cpp",
+			"__memory": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"memory_resource": "cpp",
+			"optional": "cpp",
+			"iosfwd": "cpp",
+			"istream": "cpp",
+			"memory": "cpp",
+			"mutex": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"unordered_map": "cpp",
+			"utility": "cpp",
+			"vector": "cpp",
+			"*.tcc": "cpp",
+			"algorithm": "cpp",
+			"random": "cpp",
+			"numeric": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"streambuf": "cpp"
+		}
+	}
+}

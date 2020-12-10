@@ -1,0 +1,17 @@
+*.dat
+*.log
+*.o
+*.xclbin
+sdaccel_profile_summary.*
+*.weights
+libdarknet.so
+libdarknet.a
+libkernel.so
+libkernel_top.so
+kernel_top.mco
+emconfig.json
+*.swp
+.merlin_prj
+__merlinkernel_top.h
+.run
+config
